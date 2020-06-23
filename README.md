@@ -1,2 +1,2 @@
-# Privat Memproses dokumen PDF
-Text Pre-Processing and Topic Modelling with Python: https://rstudio.cloud/project/1356128
+# Mengekrtraksi informasi dari jurnal dengan format .PDF
+Text Pre-Processing and Topic Modelling with R: https://rstudio.cloud/project/1356128
